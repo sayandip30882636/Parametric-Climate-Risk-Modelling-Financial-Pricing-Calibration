@@ -37,7 +37,7 @@ We defined "Excess Rainfall" using statistical thresholds derived from historica
 
 #### 3. Pricing & Calibration (Burn Cost Analysis)
 The core financial modeling involved an iterative calibration loop:
-$$\text{Fair Premium} = \frac{\sum_{i=2005}^{2024} \text{Payout}_i}{N_{\text{years}}}$$
+\text{Fair Premium} = \frac{\sum_{i=2005}^{2024} \text{Payout}_i}{N_{\text{years}}}
 The triggers and payout amounts were adjusted iteratively until the *Average Payout* converged to the target premium of **₹2,500 (5%)**.
 
 ---
