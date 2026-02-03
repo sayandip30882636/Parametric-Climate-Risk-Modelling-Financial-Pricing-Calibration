@@ -48,9 +48,8 @@ The triggers and payout amounts were adjusted iteratively until the *Average Pay
 
 ├── data/                   # Raw rainfall data and geometry files
 ├── notebooks/              # Jupyter notebooks for EDA and visualization
-├── src/
-│   ├── model.py            # Main script for threshold calculation and backtesting
-│   └── utils.py            # Helper functions for data cleaning
+├── src/                   
+│   └── model.py            # Main script for threshold calculation and backtesting
 ├── results/                # Output Excel sheets and Back-testing logs
 ├── reports/                # PDF Report (Product Design Document)
 └── README.md               # Project documentation
